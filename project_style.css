@@ -1,0 +1,42 @@
+body{
+    background-image:url(./image/contact_bg.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table{
+    padding-top: 80px;
+    border-spacing: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    border: 3px solid black;
+    border-radius: 20px;
+    height: 400px;
+    width: 300px;
+    text-align: center;
+}
+a:link,a:visited{
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover,a:active{
+    color: rgb(126, 121, 119);
+    background-color: transparent;
+    text-decoration: none;
+}
+.achivements{
+   float: left;
+   padding-left: 30px;
+   padding-top:100px;
+}
+.photo{
+    padding-top:120px;
+    text-align: center;
+}
+.self-intro{
+    margin-left: 320px;
+    margin-right: 320px;
+}

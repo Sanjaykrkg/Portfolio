@@ -1,0 +1,63 @@
+body{
+    background-image:url(image/creative-flat-lay-design-workspace-desk-with-laptop-alarm-clock-blank-notebook-smartphone-stationery-with-copy-space-background.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.navigation_bar{
+    justify-content:space-between;
+    padding-top:5px;
+    background-color: rgb(252, 252, 252);
+    height: 45px;
+    width: 100%;
+}
+.right{
+    gap:100px;
+    padding-right:40px;
+    font-size: 20px;
+    display: flex;
+    float: right;
+    padding-top: 10px;
+}
+.left{
+    padding-top: 10px;
+    padding-left:20px;
+    font-size: 30px;
+    gap:20px;
+    display: flex;
+    float: left;
+}
+.profile{
+    float: left;
+    padding:30px;
+}
+.heading{
+    margin-left: auto;
+    margin-right: auto;
+}
+.profile_heading{
+    padding-top:150px;
+    text-align: center;
+    display: flex;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;    
+}
+h2{
+    padding:10px;
+    background-color: rgb(238, 158, 93);
+    border-radius: 7px;
+}
+a:visited,a:link{
+    color:rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+    font-weight:800;
+}
+a:hover,a:active{
+    color:rgb(126, 141, 92);
+    background-color:transparent;
+    text-decoration: none;
+    font-weight:800;
+}
